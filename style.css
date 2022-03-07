@@ -1,0 +1,12 @@
+body {
+  box-sizing: border-box;
+}
+.logo {
+  max-width: 30%;
+}
+
+#profile {
+  margin-top: -80px;
+  width: auto;
+  height: 130px;
+}
